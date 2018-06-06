@@ -1,0 +1,64 @@
+{
+	"music":[  
+	   {  
+	      "song":"Afreen Afreen",
+	      "url":"http://hck.re/Rh8KTk",
+	      "artists":"Rahat Fateh Ali Khan, Momina Mustehsan",
+	      "cover_image":"https://s3-ap-southeast-1.amazonaws.com/he-public-data/afreen2ac5a33.jpg"
+	   },
+	   {  
+	      "song":"Aik Alif",
+	      "url":"http://hck.re/ZeSJFd",
+	      "artists":"Saieen Zahoor, Noori",
+	      "cover_image":"https://s3-ap-southeast-1.amazonaws.com/he-public-data/aik_alif4181734.jpg"
+	   },
+	   {  
+	      "song":"Tajdar e haram",
+	      "url":"http://hck.re/wxlUcX",
+	      "artists":"Atif Aslam",
+	      "cover_image":"https://s3-ap-southeast-1.amazonaws.com/he-public-data/tajdare_haram573ab64.jpg"
+	   },
+	   {  
+	      "song":"Aaj Rung",
+	      "url":"http://hck.re/H5nMm3",
+	      "artists":"Amjad Sabri,  Rahat Fateh Ali Khan",
+	      "cover_image":"https://s3-ap-southeast-1.amazonaws.com/he-public-data/aaj_rung3d58316.jpg"
+	   },
+	   {  
+	      "song":"Ae dil",
+	      "url":"http://hck.re/2nCncK",
+	      "artists":"Ali Zafar, Sara Haider",
+	      "cover_image":"https://s3-ap-southeast-1.amazonaws.com/he-public-data/ae_dil4c46fe9.jpg"
+	   },
+	   {  
+	      "song":"Man Amadeh am",
+	      "url":"http://hck.re/epOzj9",
+	      "artists":"Atif Aslam, Gul Panrra",
+	      "cover_image":"https://s3-ap-southeast-1.amazonaws.com/he-public-data/man_amadeh5e05355.jpg"
+	   },
+	   {  
+	      "song":"Bewajah",
+	      "url":"http://hck.re/YkbDDP",
+	      "artists":"Nabeel Shaukat Ali",
+	      "cover_image":"https://s3-ap-southeast-1.amazonaws.com/he-public-data/bewajah7174d4d.jpg"
+	   },
+	   {  
+	      "song":"Dinae Dinae",
+	      "url":"http://hck.re/dMquYY",
+	      "artists":"Harshadeep Kaur",
+	      "cover_image":"https://s3-ap-southeast-1.amazonaws.com/he-public-data/dinae81c565e.jpg"
+	   },
+	   {  
+	      "song":"Tera woh pyar",
+	      "url":"http://hck.re/64Tzod",
+	      "artists":"Momina Mustehsan, Asim Azhar",
+	      "cover_image":"https://s3-ap-southeast-1.amazonaws.com/he-public-data/tera_woh_pyar9841bca.jpg"
+	   },
+	   {  
+	      "song":"Shamaan Pai gaiyan",
+	      "url":"http://hck.re/VhtQGh",
+	      "artists":"Rachel Viccaji, Kashif Ali",
+	      "cover_image":"https://s3-ap-southeast-1.amazonaws.com/he-public-data/shamaanb221a38.jpg"
+	   }
+	]
+}
